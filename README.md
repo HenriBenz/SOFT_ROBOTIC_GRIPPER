@@ -1,1 +1,3 @@
-Needs Update!
+SOFT ROBOTC GRIPPER
+
+Soft Robotic Gripper is ...
