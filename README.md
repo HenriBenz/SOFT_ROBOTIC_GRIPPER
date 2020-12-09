@@ -1,3 +1,3 @@
-SOFT ROBOTC GRIPPER
+# SOFT ROBOTC GRIPPER
 
 Soft Robotic Gripper is ...
